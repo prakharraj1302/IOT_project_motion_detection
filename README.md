@@ -1,4 +1,4 @@
-# Motion Recognition Project Readme
+# Motion Recognition Project 
 
 Welcome to the Motion Recognition Project! This project focuses on utilizing the Seeed Studio XIAO nRF52840 Sense in combination with Edge Impulse to enable motion recognition. The primary goal is to detect various human motions and classify them into different actions.
 
